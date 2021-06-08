@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-	<title>SIPUS PCR</title>
+	<title>SIPUS Politeknik Caltex Riau</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
